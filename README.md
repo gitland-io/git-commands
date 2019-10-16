@@ -70,17 +70,17 @@
 
 نمایش لیست برنچ های مخزن.
 
--git branch \&lt;name\&gt;
+-git branch <name>
 
 ایجاد یک برنچ جدید.
 
--git checkout \&lt;name\&gt;
+-git checkout <name>
 
 جا به جا شدن در بین فضاهای کاری مختلف.
 
 \*شاخه اصلی ما اسمش master هست
 
--git merge \&lt;name\&gt;
+-git merge <name>
 
 ادغام کردن تغییرات. مراقب باشید اول باید به برنچی که می‌خواهید کدها رو باهاش ادغام کنید برید.
 
@@ -121,7 +121,7 @@
 
 **تگ زدن برای شناسایی نسخه ها**
 
--git show \&lt;commit\&gt;
+-git show <commit>
 
 اطلاعات یه کامیت خاص رو با این دستور ببینید.
 
@@ -151,7 +151,7 @@
 
 \*git bisect bad الان وضعیت بده.
 
-\*git bisect good \&lt;commit\&gt; اینجا وضعیت خوب بوده.
+\*git bisect good <commit> اینجا وضعیت خوب بوده.
 
 **آموزش گیت هاب و مشارکت در پروژه ها**
 
